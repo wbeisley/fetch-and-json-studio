@@ -1,1 +1,3 @@
-// TODO: add code here
+window.addEventListener('load', (event) => {
+    console.log('page is fully loaded');
+});
